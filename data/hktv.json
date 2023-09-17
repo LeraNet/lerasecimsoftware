@@ -1,0 +1,16 @@
+{
+    "theme": {
+        "background": "https://mohler.s3.amazonaws.com/uploads/2020/05/News-Banner.jpg"
+    },
+    "sunucu_uyesayisi": 53,
+    "adaylar": [
+        "Luitpold",
+        "Asim",
+        "Xlement"
+    ],
+    "oylar": {
+        "Luitpold": 0,
+        "Asim": 0,
+        "Xlement": 0
+    }
+}
